@@ -8,7 +8,6 @@
 ## Stats
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Dude_22&theme=dark)](https://codeforces.com/profile/Dude_22)
-[![Codeforces](https://cf.leed.at?id=Dude_22&type=rating&h=100)](https://codeforces.com/profile/Dude_22)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnKnownHelp69&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnKnownHelp69&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UnKnownHelp69&theme=react-dark)
