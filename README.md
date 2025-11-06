@@ -1,9 +1,9 @@
 ## Hi there, I'm Iskander
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Computer+science+student)](https://git.io/typing-svg)
 
-- 🌱 Try to sirvive.
-- 💬 You can contact me on \href{https://t.me/RoyRaynold}{telegram} or write on my email \href{mailto:iskanderkh26@gmail.com}{iskanderkh26@gmail.com}.
-- ⚡ Visit my \href{iskanderkhafizov.space}{site}.
+- 🌱 Try to survive.
+- 💬 You can contact me on [Telegram](https://t.me/RoyRaynold) or write to my email [iskanderkh26@gmail.com](mailto:iskanderkh26@gmail.com).
+- ⚡ Visit my [site](https://iskanderkhafizov.space).
 
 <!--
 - 🔭 I’m currently working on ...
@@ -15,5 +15,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Stats
+
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Dude_22&theme=dark)](https://codeforces.com/profile/Dude_22)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnKnownHelp69&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnKnownHelp69&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
