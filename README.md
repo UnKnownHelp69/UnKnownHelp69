@@ -10,6 +10,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnKnownHelp69&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnKnownHelp69&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnKnownHelp69&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnKnownHelp69&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
