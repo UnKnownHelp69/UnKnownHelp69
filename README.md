@@ -5,9 +5,12 @@
 - 💬 You can contact me on [Telegram](https://t.me/RoyRaynold) or write to my email [iskanderkh26@gmail.com](mailto:iskanderkh26@gmail.com).
 - ⚡ Visit my [site](https://iskanderkhafizov.space).
 
-## Stats
+## Algorithms stats
 
 [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Dude_22&theme=dark)](https://codeforces.com/profile/Dude_22)
+
+## Github stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnKnownHelp69&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UnKnownHelp69&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=UnKnownHelp69&theme=react-dark)
