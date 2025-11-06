@@ -1,5 +1,10 @@
 ## Hi there, I'm Iskander
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Computer+science+student)](https://git.io/typing-svg)
+
+- 🌱 Try to sirvive.
+- 💬 You can contact me on \href{https://t.me/RoyRaynold}{telegram} or write on my email \href{mailto:iskanderkh26@gmail.com}{iskanderkh26@gmail.com}.
+- ⚡ Visit my \href{iskanderkhafizov.space}{site}.
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
