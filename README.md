@@ -1,4 +1,4 @@
-## Hi there, I'm Iskander
+## Hi there, I'm Iskander and
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=I'm+computer+science+student)](https://git.io/typing-svg)
 
 - 🌱 Try to survive.
